@@ -1,2 +1,2 @@
 # Mini-Project---Sentiment-Analyzer
-Mini ProjectUsing HuggingFace Transformer - DistilBERT(lightweight version of BERT) 
+Mini Project using HuggingFace Transformer - DistilBERT(lightweight version of BERT) to analyze sentiment 
